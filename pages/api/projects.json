@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "JBL-Headphones",
+    "image": "https://imgur.com/kbGs6zH.png",
+    "description": "A basoc frontend headphone website built using HTML, CSS, JavaScript ",
+    "tags": [],
+    "demo": "jbl-headphone.vercel.app"
+  },
+  {
+    "id": 2,
+    "name": "ElectronX",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "A frontend website which i built for a event organised in our department",
+    "tags": [],
+    "demo": "https://electron-x.vercel.app/"
+  },
+  {
+    "id": 3,
+    "name": "YumZone",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "A food ordering platform for Yummy meals to your doorstep. I built this project for one of the hackathon and won the hackathon among 150 developers.",
+    "tags": [],
+    "source_code": "https://github.com/HithaaC/Hackathon-project.git"
+  },
+  {
+    "id": 4,
+    "name": "VSCode - themed Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": [],
+    "demo": "http://hitha-portfolio.vercel.app/"
+  }
+]
